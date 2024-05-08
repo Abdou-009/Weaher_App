@@ -3,9 +3,9 @@
 This is a simple weather app built with Flutter, designed to display current weather conditions based on the user's location. The app fetches weather data from an external API and presents it in a user-friendly interface.
 
 <br><br>
-<img src="/images/img1.png" alt="Screenshot 1" width="200">
-<img src="/images/img2.png" alt="Screenshot 2" width="200">
-<img src="/images/img3.png" alt="Screenshot 2" width="200">
+<img src="/assets/img1.png" alt="Screenshot 1" width="200">
+<img src="/assets/img2.png" alt="Screenshot 2" width="200">
+<img src="/assets/img3.png" alt="Screenshot 2" width="200">
 <br><br>
 
 ## Features
